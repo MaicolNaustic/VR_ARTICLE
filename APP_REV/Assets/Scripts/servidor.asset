@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77a22dedd669b8d419aa73555e7028ae, type: 3}
+  m_Name: servidor
+  m_EditorClassIdentifier: 
+  nombreServidor: http://192.168.10.100/base_proyecto
+  servicios:
+  - nombre: verificar usuario
+    URL: verificar_usuario.php
+    parametros:
+    - usuario
+  - nombre: Login User
+    URL: login.php
+    parametros:
+    - usuario
+  - nombre: Publicar Valores
+    URL: publicar_valores.php
+    parametros:
+    - usuario
+    - Fecha
+    - velocidad
+    - pendiente
+  ocupado: 0
+  respuesta:
+    codigo: 200
+    mensaje: Datos insertados correctamente

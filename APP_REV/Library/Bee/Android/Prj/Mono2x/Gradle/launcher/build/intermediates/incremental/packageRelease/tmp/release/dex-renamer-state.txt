@@ -1,0 +1,4 @@
+#Fri Mar 01 09:50:24 COT 2024
+base.0=C\:\\UNIVERSIDAD\\TESIS\\APP GIROSCOPIO\\APP_REV\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
