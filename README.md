@@ -4,6 +4,7 @@
 
 ![image](https://github.com/MaicolNaustic/VR_ARTICLE/assets/89175278/688eb5cc-5aec-485c-b078-e79c86fb0674)
 
+![michael_bicycle](https://github.com/MaicolNaustic/VR_ARTICLE/assets/89175278/df27a1b4-a356-4caf-beb2-14c4cebfff37)
 
 
 ![CICLISTA_HILL](https://github.com/MaicolNaustic/VR_ARTICLE/assets/89175278/a1d1e01d-a693-46dd-b0b2-8ee5b44bec4d)
